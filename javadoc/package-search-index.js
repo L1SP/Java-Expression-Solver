@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.serov.data"},{"l":"com.serov.evaluation"},{"l":"com.serov.exceptions"},{"l":"com.serov.lab2"},{"l":"com.serov.operators"},{"l":"com.serov.partition"},{"l":"com.serov.solver"},{"l":"com.serov.validation"}];updateSearchResults();
